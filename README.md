@@ -1,4 +1,15 @@
-# FT_PRINTF - Custom Printf Function
+###
+
+<p align="center">
+  <img src="else/cover-ft_printf-bonus.png" alt="ft_printf cover"/>
+</p>
+
+<p align="center">
+  <img src="else/ft_printfm.png" alt="ft_printf badge"/>
+</p>
+<h1 align="center">
+ 42 Project - FT_PRINTF - Custom Printf Function
+</h1>
 
 ## Overview
 
